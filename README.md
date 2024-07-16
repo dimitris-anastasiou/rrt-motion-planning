@@ -18,4 +18,4 @@ This project focused on implementing the Rapidly-Exploring Random Tree (RRT) alg
    - Path shortcutting and resampling techniques to refine the planned trajectories, improving execution efficiency and ensuring smooth movement.
 
 ## Project Structure
-- **rrt_motion_planning.py**: Main script for implementing RRT-based motion planning for the UR5 robotic arm.
+- `rrt_motion_planning.py`: Main script for implementing RRT-based motion planning for the UR5 robotic arm.
