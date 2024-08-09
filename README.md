@@ -3,6 +3,10 @@
 ## Objective
 This project focused on implementing the Rapidly-Exploring Random Tree (RRT) algorithm for sampling-based motion planning to control a UR5 robotic arm. Utilizing the MoveIt! library in a ROS2 environment, the goal was to develop a robust motion planning solution capable of navigating the robotic arm through various environments, avoiding obstacles, and reaching specified end-effector poses.
 
+| Video 1 | Video 2 |
+|---|---|
+| [![YouTube Video 1](https://img.youtube.com/vi/MTEMFD5bnlk/0.jpg)](https://www.youtube.com/watch?v=MTEMFD5bnlk) | [![YouTube Video 2](https://img.youtube.com/vi/iff-jk5FrEs/0.jpg)](https://www.youtube.com/watch?v=iff-jk5FrEs) |
+
 ## Key Features
 
 1. **RRT Algorithm Implementation:**
